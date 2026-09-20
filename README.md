@@ -6,11 +6,11 @@ A hands-on machine learning portfolio demonstrating supervised, unsupervised, an
 
 | Project | ML Approach | Use Case | Key Tools |
 |---|---|---|---|
-| [House Price Prediction](./Linear_Regression.ipynb) | Supervised Learning / Regression | Estimate residential sale prices from property features | PyTorch, pandas, scikit-learn, Matplotlib |
-| [Decision Trees](./Decision_trees.ipynb) | Supervised Learning | Explore tree-based prediction with interactive inputs | Python, scikit-learn, ipywidgets |
-| [Customer Segmentation](./K_Means_Clustering.ipynb) | Unsupervised Learning / K-Means | Identify customer segments from income and spending behavior | scikit-learn, pandas, Matplotlib, Seaborn |
-| [Marketing Offer Optimization](./Reeinforced_learning.ipynb) | Reinforcement Learning | Learn which marketing offer produces the strongest simulated response | NumPy, pandas, Matplotlib |
-| [Regression Model Testing](./RegressiontestModule.ipynb) | Regression / Model Evaluation | Experiment with house-price prediction and interactive model inputs | Python, Jupyter widgets |
+| [House Price Prediction](./01-house-price-regression.ipynb) | Supervised Learning / Regression | Estimate residential sale prices from property features | PyTorch, pandas, scikit-learn, Matplotlib |
+| [Decision Trees](./02-decision-tree.ipynb) | Supervised Learning | Explore tree-based prediction with interactive inputs | Python, scikit-learn, ipywidgets |
+| [Customer Segmentation](./03-kmeans-customer-segmentation.ipynb) | Unsupervised Learning / K-Means | Identify customer segments from income and spending behavior | scikit-learn, pandas, Matplotlib, Seaborn |
+| [Marketing Offer Optimization](./04-marketing-reinforcement-learning.ipynb) | Reinforcement Learning | Learn which marketing offer produces the strongest simulated response | NumPy, pandas, Matplotlib |
+| [Regression Model Testing](./05-regression-model-evaluation.ipynb) | Regression / Model Evaluation | Experiment with house-price prediction and interactive model inputs | Python, Jupyter widgets |
 
 ## What This Repository Demonstrates
 
